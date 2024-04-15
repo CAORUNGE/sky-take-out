@@ -7,5 +7,3 @@ sky:
     username: root
     password: "1234"
 
-    #Duplicate entry 'zhangsan' for key 'employee.idx_username'
-
